@@ -4,7 +4,7 @@ I am a computational biologist intwrested in statistical modeling, systems biolo
 
 Currently I am a posdoctoral researcher in [Wise Lab](https://faculty.sites.iastate.edu/rpwise/) at Iowa State University building gene regulatory networks and epistasis models from RNASeq to describe the temporal control of of immunity to powdery mildew in barley.
 
-## Education:
+## :mortar_board: Education:
 - PhD in Bioinformatics and Computational Biology. Iowa State University, USA
 - MS is in Biomedical Research. Univertity of Valladolid, Spain
 - Biology. University of Antioquia, Colombia
