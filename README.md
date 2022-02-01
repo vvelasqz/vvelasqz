@@ -10,7 +10,7 @@ Currently I am a posdoctoral researcher in [Wise Lab](https://faculty.sites.iast
 - Biology. University of Antioquia, Colombia
 - BS Biological Engineering. National University of Colombia
 
-## Some of my projects
+## :notebook: Some of my projects
 - Y2H-SCORES and NGPINT are software to analyze high throughput Y2H data and proiritize protein-protein interactions. Here you can find the repositories and the publications
 NGPINT: https://github.com/Wiselab2/NGPINT 
 Y2H-SCORES: https://github.com/vvelasqz/Y2H-SCORES
@@ -23,7 +23,7 @@ Y2H-SCORES: https://github.com/vvelasqz/Y2H-SCORES
 
 If you want more details you can find my CV [here](https://drive.google.com/file/d/1Ic5xGabjK0lirtI4n8pfSYqFDXbMNdhN/view?usp=sharing)
 
-## Interests
+## ⚡ Interests
 - Proud representative of the [Fulbright](https://fulbright.edu.co/) and [Schlumberger faculty for the future programs](https://www.slb.com/who-we-are/schlumberger-foundation). 
 - Commited to increasing diversity in STEM
 - My personal interests include cooking, gardening and dancing latin music
