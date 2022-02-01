@@ -11,9 +11,7 @@ Currently I am a posdoctoral researcher in [Wise Lab](https://faculty.sites.iast
 - BS Biological Engineering. National University of Colombia
 
 ## :notebook: Some of my projects
-- Y2H-SCORES and NGPINT are software to analyze high throughput Y2H data and proiritize protein-protein interactions. Here you can find the repositories and the publications
-NGPINT: https://github.com/Wiselab2/NGPINT 
-Y2H-SCORES: https://github.com/vvelasqz/Y2H-SCORES
+- Y2H-SCORES is a software to analyze high throughput Y2H data and proiritize protein-protein interactions. Here you can find the [repository](https://github.com/vvelasqz/Y2H-SCORES) and the [publication](https://doi.org/10.1371/journal.pcbi.1008890)
 
 - I extended Y2H-SCORES to work with mass spectomertry Co-IP data, as you can see here https://github.com/vvelasqz/BC1
 
