@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 👋
 
-I am a computational biologist intwrested in statistical modeling, systems biology and high throughput data analysis. 
+I am a computational biologist interested in statistical modeling, systems biology and high throughput data analysis. 
 
 Currently I am a posdoctoral researcher in [Wise Lab](https://faculty.sites.iastate.edu/rpwise/) at Iowa State University building gene regulatory networks and epistasis models from RNASeq to describe the temporal control of of immunity to powdery mildew in barley.
 
