@@ -15,7 +15,8 @@ Currently I am a posdoctoral researcher in [Wise Lab](https://faculty.sites.iast
 
 - I extended Y2H-SCORES to work with mass spectomertry Co-IP data, as you can see here https://github.com/vvelasqz/BC1
 
-- In systems biology I developed an integration framework to study barley immunity by integrating interactome, RNASeq, eQTL and Y2H-NGIS data. Here you can find the [details](https://github.com/vvelasqz/Barley_Interactome ) and the [manuscript](https://www.biorxiv.org/content/10.1101/2021.11.02.466982v1) of this work 
+- In systems biology I developed [Interact-omics](https://github.com/vvelasqz/Barley_Interactome ) and the [manuscript](https://www.biorxiv.org/content/10.1101/2021.11.02.466982v1) an integration framework to study barley immunity by integrating interactome, RNASeq, eQTL and Y2H-NGIS data 
+- I am currently developing different workflows for transcriptome analysis. [TranscriptoNET](https://github.com/vvelasqz/TranscriptoNET) includes differential expression analysis, visualization, Gene Regulatory Networks and epistasis models. 
 
 If you want more details you can find my CV [here](https://drive.google.com/file/d/1Ic5xGabjK0lirtI4n8pfSYqFDXbMNdhN/view?usp=sharing)
 
