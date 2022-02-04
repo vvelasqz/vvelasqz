@@ -7,7 +7,7 @@ Currently I am a posdoctoral researcher in [Wise Lab](https://faculty.sites.iast
 ## :mortar_board: Education:
 - PhD in Bioinformatics and Computational Biology. Iowa State University, USA
 - MS is in Biomedical Research. Univertity of Valladolid, Spain
-- Biology. University of Antioquia, Colombia
+- BS Biology. University of Antioquia, Colombia
 - BS Biological Engineering. National University of Colombia
 
 ## :notebook: Some of my projects
