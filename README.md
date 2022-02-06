@@ -18,7 +18,7 @@ Currently I am a posdoctoral researcher in [Wise Lab](https://faculty.sites.iast
 - In systems biology I developed [Interact-omics](https://github.com/vvelasqz/Barley_Interactome ) an integration framework to study barley immunity by integrating interactome, RNASeq, eQTL and Y2H-NGIS data. This work has been submitted for [publication](https://www.biorxiv.org/content/10.1101/2021.11.02.466982v1) 
 - I am currently developing different workflows for transcriptome analysis. [TranscriptoNET](https://github.com/vvelasqz/TranscriptoNET) includes differential expression analysis, visualization, Gene Regulatory Networks and epistasis models. 
 
-If you want more details you can find my CV [here](https://drive.google.com/file/d/1Ic5xGabjK0lirtI4n8pfSYqFDXbMNdhN/view?usp=sharing)
+If you want more details you can find my CV [here](https://docs.google.com/gview?url=https://github.com/vvelasqz/CV/raw/main/cv_vvz.pdf&embedded=true)
 
 ## ⚡ Interests
 - Proud representative of the [Fulbright](https://fulbright.edu.co/) and [Schlumberger faculty for the future programs](https://www.slb.com/who-we-are/schlumberger-foundation). 
