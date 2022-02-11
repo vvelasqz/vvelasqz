@@ -19,6 +19,7 @@ If you want to know more about me please visit [my personal website](https://vve
 
 - In systems biology I developed [Interact-omics](https://github.com/vvelasqz/Barley_Interactome ) an integration framework to study barley immunity by integrating interactome, RNASeq, eQTL and Y2H-NGIS data. This work has been submitted for [publication](https://www.biorxiv.org/content/10.1101/2021.11.02.466982v1) 
 - I am currently developing different workflows for transcriptome analysis. [TranscriptoNET](https://github.com/vvelasqz/TranscriptoNET) includes differential expression analysis, visualization, Gene Regulatory Networks and epistasis models. 
+- I have collaborated in different projects exploring the genomics and population structure of different groups of organisms. These had different applications going from [genome evolution](https://www.news.iastate.edu/news/2020/08/12/tuatara) to the assessment of genetic diversity linked with [agronomic](https://www.researchgate.net/project/Avocado-Rootstock-Breeding-Program) or [clinical](https://github.com/vvelasqz/Fusarium_Genotyping) traits.
 
 If you want more details you can find my CV [here](https://docs.google.com/gview?url=https://github.com/vvelasqz/CV/raw/main/cv_vvz.pdf&embedded=true)
 
