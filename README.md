@@ -8,7 +8,7 @@ If you want to know more about me please visit [my personal website](https://vve
 
 ## :mortar_board: Education:
 - PhD in Bioinformatics and Computational Biology. Iowa State University, USA
-- MS is in Biomedical Research. Univertity of Valladolid, Spain
+- MS is in Biomedical Research. University of Valladolid, Spain
 - BS Biology. University of Antioquia, Colombia
 - BS Biological Engineering. National University of Colombia
 
