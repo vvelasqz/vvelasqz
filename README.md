@@ -2,7 +2,7 @@
 
 I am a computational biologist interested in statistical modeling, systems biology and high throughput data analysis. 
 
-Currently I am a posdoctoral researcher in [Wise Lab](https://faculty.sites.iastate.edu/rpwise/) at Iowa State University building gene regulatory networks and epistasis models from RNASeq to describe the temporal control of of immunity to powdery mildew in barley.
+Currently I am a Bioinformatics scientist at Greenligh Biosciences.
 
 If you want to know more about me please visit [my personal website](https://vvelasqz.github.io/)
 
